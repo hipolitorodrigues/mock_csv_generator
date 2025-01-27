@@ -44,9 +44,9 @@
 
 2. **実行**:
    - コードをダウンロード。
-   - `csv_generator_gui.py` を実行:
+   - `main.py` を実行:
      ```bash
-     python csv_generator_gui.py
+     python main.py
      ```
 
 3. **生成されるファイル**:
@@ -60,7 +60,7 @@
 
 ## プロジェクト構成
 
-- `csv_generator_gui.py`: メインアプリケーションコード。
+- `main.py`: メインアプリケーションコード。
 - `column_config.json`: （オプション）ユーザーが保存した設定を格納。
 - `DATA_CONFIG.py`: （オプション）Python モジュールを介してカスタム設定を読み込むためのファイル。
 
