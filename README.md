@@ -76,4 +76,3 @@
 ## Licença
 
 This project is licensed under the [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/) license. This means you can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
-```

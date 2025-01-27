@@ -76,4 +76,3 @@
 ## Licença
 
 Este projeto está sob a licença [CC0 1.0 Universal (Domínio Público)](https://creativecommons.org/publicdomain/zero/1.0/). Isso significa que você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem pedir permissão.
-```
