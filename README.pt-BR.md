@@ -4,6 +4,8 @@
 
 ![alt text](https://github.com/hipolitorodrigues/mock_csv_generator/blob/88853b15db5302aba301f4e70edf7a7e2503a11f/assets/images/sampling.png)
 
+![alt text](https://github.com/hipolitorodrigues/mock_csv_generator/blob/ad0ad82c9a6114ccceee7eed0f983b205cf64991/assets/images/screenshot.png)
+
 ## Funcionalidades
 
 1. **Geração de CSVs personalizados**:
