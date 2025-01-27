@@ -2,7 +2,7 @@
 
 **मॉक CSV जेनरेटर** एक डेस्कटॉप एप्लिकेशन है, जिसे Python और Tkinter का उपयोग करके विकसित किया गया है। यह उपयोगकर्ता-परिभाषित कॉन्फ़िगरेशन के आधार पर कस्टम CSV फाइलें बनाने की अनुमति देता है। परीक्षण और प्रोटोटाइपिंग के लिए मॉक डेटा उत्पन्न करने के लिए यह आदर्श है।
 
-![alt text]()
+![alt text](https://github.com/hipolitorodrigues/mock_csv_generator/blob/88853b15db5302aba301f4e70edf7a7e2503a11f/assets/images/sampling.png)
 
 ## विशेषताएँ
 

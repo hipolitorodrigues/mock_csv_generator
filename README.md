@@ -2,7 +2,7 @@
 
 **Mock CSV Generator** is a desktop application, developed in Python and Tkinter, that allows you to create custom CSV files based on user-defined configurations. It's ideal for generating mock data for testing and prototyping.
 
-![alt text]()
+![alt text](https://github.com/hipolitorodrigues/mock_csv_generator/blob/88853b15db5302aba301f4e70edf7a7e2503a11f/assets/images/sampling.png)
 
 ## Features
 
