@@ -1,3 +1,19 @@
+<div align="center">
+	<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-ico.svg">
+    <a href="./README.md">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-en.svg">
+	</a>
+	<a href="./RREADME.ja.md">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-ja.svg">
+	</a>
+	<a href="./README.hi.md">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-hi.svg">
+	</a>
+	<a href="./README.pt-BR">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-pt-br.svg">
+	</a>
+</div
+
 # Mock CSV Generator
 
 **Mock CSV Generator** is a desktop application, developed in Python and Tkinter, that allows you to create custom CSV files based on user-defined configurations. It's ideal for generating mock data for testing and prototyping.

@@ -1,3 +1,19 @@
+<div align="center">
+	<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-ico.svg">
+    <a href="./README.md">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-en.svg">
+	</a>
+	<a href="./RREADME.ja.md">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-ja.svg">
+	</a>
+	<a href="./README.hi.md">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-hi.svg">
+	</a>
+	<a href="./README.pt-BR">
+		<img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-pt-br.svg">
+	</a>
+</div
+
 # मॉक CSV जेनरेटर
 
 **मॉक CSV जेनरेटर** एक डेस्कटॉप एप्लिकेशन है, जिसे Python और Tkinter का उपयोग करके विकसित किया गया है। यह उपयोगकर्ता-परिभाषित कॉन्फ़िगरेशन के आधार पर कस्टम CSV फाइलें बनाने की अनुमति देता है। परीक्षण और प्रोटोटाइपिंग के लिए मॉक डेटा उत्पन्न करने के लिए यह आदर्श है।
