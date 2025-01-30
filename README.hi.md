@@ -1,16 +1,16 @@
 <div align="center">
-   <img height="30" width="40" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-ico.svg">
-    <a href="./README.md">
-      <img height="30" width="120" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-en.svg">
+   <img height="30" width="40" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-ico.svg">
+   <a href="./README.md">
+      <img height="30" width="120" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-en.svg">
    </a>
    <a href="./README.ja.md">
-      <img height="30" width="60" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-ja.svg">
+      <img height="30" width="60" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-ja.svg">
    </a>
    <a href="./README.hi.md">
-      <img height="30" width="60" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-hi.svg">
+      <img height="30" width="60" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-hi.svg">
    </a>
    <a href="./README.pt-BR.md">
-      <img height="30" width="60" src="https://github.com/hipolitorodrigues/mock_csv_generator/blob/e3f4b6240ef8b99934e7383aeafac11e1c1819d2/assets/images/img-readme-pt-br.svg">
+      <img height="30" width="60" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-pt-br.svg">
    </a>
 </div>
 
@@ -18,9 +18,9 @@
 
 **मॉक CSV जेनरेटर** एक डेस्कटॉप एप्लिकेशन है, जिसे Python और Tkinter का उपयोग करके विकसित किया गया है। यह उपयोगकर्ता-परिभाषित कॉन्फ़िगरेशन के आधार पर कस्टम CSV फाइलें बनाने की अनुमति देता है। परीक्षण और प्रोटोटाइपिंग के लिए मॉक डेटा उत्पन्न करने के लिए यह आदर्श है।
 
-![alt text](https://github.com/hipolitorodrigues/mock_csv_generator/blob/88853b15db5302aba301f4e70edf7a7e2503a11f/assets/images/sampling.png)
+![alt text](https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/sampling.png)
 
-![alt text](https://github.com/hipolitorodrigues/mock_csv_generator/blob/ad0ad82c9a6114ccceee7eed0f983b205cf64991/assets/images/screenshot.png)
+![alt text](https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/screenshot.png)
 
 ## विशेषताएँ
 
