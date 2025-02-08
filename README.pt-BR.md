@@ -86,8 +86,8 @@
 
 - **Desenvolvedor**: Hipolito Rodrigues
 - **Data de Criação**: 23/01/2025
-- **Última Atualização**: 27/01/2025
-- **Versão Atual**: 1.3.4
+- **Última Atualização**: 08/02/2025
+- **Versão Atual**: 1.3.5
 
 ---
 

@@ -84,10 +84,10 @@
 
 ## Autor
 
-- **Desenvolvedor**: Hipolito Rodrigues
-- **Data de Criação**: 23/01/2025
-- **Última Atualização**: 27/01/2025
-- **Versão Atual**: 1.3.4
+- **Developer**: Hipolito Rodrigues
+- **Creation Date**: 01/23/2025
+- **Last Update**: 02/08/2025
+- **Current Version**: 1.3.5
 
 ---
 
